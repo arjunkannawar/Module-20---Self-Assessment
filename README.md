@@ -34,3 +34,11 @@ _Libraries_: Pandas, Scikit-learn, SQLAlchemy, Path
   2. Death rate & deaths per million are most strongly correlated to a countries population over 65 & over 70. 
   3. Population over 70 was also the highest feature of importance in the machine learning model.
 
+## Self Assessment
+
+I think I have learned and grown a lot in the past six months. Looking back at some the code I have written, I have surprised myself. I have thoroughly enjoyed myself and look forward to implementing my learnings at work.
+
+## Team Assessment
+
+It's been a fantastic experience working with my teammates Mike, Mariela and Holly. There was a beautiful sense of colloborationf rom day one and we had a lot of fun along the way. It was the most fun period of the course!
+
