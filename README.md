@@ -1,6 +1,6 @@
 # Module-20---Self-Assessment
 
-## Global Diet, Population & Covid-19 Mortality
+## Project Summary
 
 **Selected Topic**: Global Diet, Population and Covid-19 Mortality 
 
