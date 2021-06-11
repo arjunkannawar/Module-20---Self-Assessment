@@ -28,6 +28,9 @@ Upon completion of the data exploration, we analyzed our data against the Key Pe
 _Software_: Google Colab, Python, HTML, SQLite, Tableau, AWS, Postgres DB<br>
 _Libraries_: Pandas, Scikit-learn, SQLAlchemy, Path
 
-**Description of The Anlaysis Phase of the Project:**
+**Project outlook**
 
-Upon completion of the data exploration, we will analyze our data against the Key Performance Indicators (KPIs)* that we have identified as areas of interest in our analysis. To visualize the results of our analysis, we will use Tableau to display the relationships that exist within our dataset, and to showcase the KPIs of interest. 
+  1. The strongest predictor of  Covid-19 morbidity in our analysis of  age, population, food supply and quality of life as predictors, is age.
+  2. Death rate & deaths per million are most strongly correlated to a countries population over 65 & over 70. 
+  3. Population over 70 was also the highest feature of importance in the machine learning model.
+
